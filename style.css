@@ -10,7 +10,7 @@ body {
 #card {
     display: flex;
     margin: 7rem auto;
-    width: 63%;
+    width: 70%;
     background-color: hsl(244, 38%, 16%);
     border-radius: 10px;
     overflow: hidden;
